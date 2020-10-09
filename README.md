@@ -1,1 +1,1 @@
-# Low-cost-sensor-modules-for-ocean-exploration
+# Low cost sensor modules for ocean exploration
